@@ -1,0 +1,34 @@
+{
+  // Competitive Programming C++ Template
+  "CP Template": {
+    "scope": "cpp",
+    "prefix": "cp",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "using ll = long long;",
+      "using vi = vector<int>;",
+      "using vll = vector<ll>;",
+      "",
+      "void solve() {",
+      "    $1  ",
+      "}",
+      "",
+      "int main() {",
+      "    ios::sync_with_stdio(false);",
+      "    cin.tie(nullptr);",
+      "",
+      "    int t = 1;",
+      "    cin >> t;",
+      "    while (t--) {",
+      "        solve();",
+      "        cout << '\\n';",
+      "    }",
+      "",
+      "    return 0;",
+      "}"
+    ],
+    "description": "C++ competitive programming template with fast IO, solve() stub, and test-case loop"
+  }
+}

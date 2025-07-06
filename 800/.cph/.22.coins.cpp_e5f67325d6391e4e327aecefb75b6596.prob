@@ -1,0 +1,1 @@
+{"name":"Local: 22","url":"d:\\CODING\\c++\\TLE 31\\800\\22.coins.cpp","tests":[{"id":1750661688880,"input":"4\n5 3\n6 1\n7 4\n8 8\n","output":"YES\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODING\\c++\\TLE 31\\800\\22.coins.cpp","group":"local","local":true}
